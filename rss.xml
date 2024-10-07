@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:"https://www.w3.org/2005/Atom">
+    <channel>
+        <title> AttackerKB Feed </title>
+        <link>https://attackerkb.com</link>
+        <description>The latest updates for activity on AttackerKB</description>
+        <language>en-US</language>
+        <lastBuildDate>[date this file was last built (RFC 822 datetime format)]</lastBuildDate>
+        <image>
+            <title>AttackerKB</title>
+            <url>[url to image of AttackerKB logo]</url>
+            <link>https://attackerkb.com</link>
+        </image>
+        <item>
+            <title>CVE-2024-7029</title>
+            <link>https://attackerkb.com/topics/klY0TwDSd5/cve-2024-7029</link>
+            <description>New assessment created for CVE-2024-7029</description>
+        </item>
+        <item>
+            <title>New metasploit module added!</title>
+            <link>https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/multi/http/geoserver_unauth_rce_cve_2024_36401.rb</link>
+            <description>exploit/multi/http/geoserver_unauth_rce_cve_2024_36401</description>
+        </item>
+    </channel>
+</rss>
